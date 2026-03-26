@@ -1,0 +1,40 @@
+Krishnam Singhal
+Sawai Madhopur, Rajasthan 322001
+ +91 9571048121  krishnamsinghal@gmail.com www.linkedin.com/in/krishnam  : https://github.com/krishnam122
+Projects
+   Food Service Website | HTML, CSS, Responsive Web Design                                                                 Aug 2023 – Sep 2023
+Developed a static website for an online food service platform where users can browse various food items such as pizzas, burgers, beverages, and deserts
+Designed multiple web pages including home, menu, and contact sections using HTML and CSS
+Implemented responsive layout an styling to ensure proper display across different screen sizes
+Focused on clean UI design, navigation structure, and visually appealing presentation of food items
+Applied front-end development skills to build a simple and user-friendly website interface
+ Aws Architecture Design | Amazon Web Services (AWS)  Apr 2025 – June 2025
+Designed a simple cloud architecture using AWS services to understand basic cloud infrastructure and deployment concepts
+Created an architecture diagram including services such as EC2 for compute, S3 for storage, and IAM for secure access Management
+Focused on scalable and reliable system design principles while structuring the architecture
+Learned how different Aws services interact to support web applications and data storage
+Applied basic cloud computing knowledge to build and document a simple AWS architecture model
+Training 
+Summer Training | Data Structures and Algorithms (DSA)Jun 2025 - Aug 2025
+Cipher Schools | Certificate
+Completed summer training focused on core concepts of Data Structures and Algorithms
+Learned and implemented fundamental data structures such as arrays, stacks, queues, linked lists, trees and graphs
+Practiced problem-solving techniques including recursion, searching, and sorting algorithms
+Gained hands-on coding experience by solving algorithmic problems and implementing DSA concepts in C++
+Strengthened logical thinking and programming skills through regular coding exercises and practice problems
+Certificates / Certification
+Bits and bytes Computer Networking  Sep 2024
+Coursera — Certificate 
+Computer Communications  Nov 2024
+Coursera —Certificate
+Skills
+Languages C++, Python , C
+Technologies/Frameworks: Docker, Git, GitHub, Ubuntu
+Domain Skills: Data Structures and Algorithms, Problem-Solving, Responsive Web Design, Cloud Computing
+Education
+Lovely Professional University   Phagwara, Punjab
+Bachelor of Technology - Computer Science and Engineering — CGPA: 7.24    2023 – Present
+Kendriya Vidyalaya Sawai MadhopurSawai Madhopur, Rajasthan
+12th  — Percentage: 78%2022 – 2023
+Kendriya Vidyalaya Shahjahanpur CanttSawai Madhopur, Rajasthan
+10th — Percentage: 85%2019 – 2020
